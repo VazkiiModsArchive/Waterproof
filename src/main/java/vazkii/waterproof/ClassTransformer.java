@@ -71,7 +71,7 @@ public class ClassTransformer implements IClassTransformer {
 	}
 
 	private static void log(String str) {
-		System.out.println("[Emotes][ASM] " + str);
+		System.out.println("[Waterproof][ASM] " + str);
 	}
 
 }
